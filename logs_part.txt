@@ -1,0 +1,26 @@
+d22f412 (HEAD -> master, origin/master) HEAD@{0}: commit: rebase feature3 and feature4 in master
+d244da6 HEAD@{1}: rebase finished: returning to refs/heads/master
+d244da6 HEAD@{2}: rebase: add imges
+e2a72c5 (feature4) HEAD@{3}: rebase: checkout feature4
+d93930e (feature3) HEAD@{4}: rebase finished: returning to refs/heads/master
+d93930e (feature3) HEAD@{5}: rebase: checkout feature3
+f3b8374 (develop) HEAD@{6}: checkout: moving from feature4 to master
+e2a72c5 (feature4) HEAD@{7}: commit: change index
+f3b8374 (develop) HEAD@{8}: checkout: moving from master to feature4
+f3b8374 (develop) HEAD@{9}: checkout: moving from feature3 to master
+d93930e (feature3) HEAD@{10}: commit: add imges
+f3b8374 (develop) HEAD@{11}: checkout: moving from master to feature3
+f3b8374 (develop) HEAD@{12}: merge develop: Fast-forward
+ce8c5fa HEAD@{13}: checkout: moving from develop to master
+f3b8374 (develop) HEAD@{14}: commit (merge): merge feature1 and feature2 in develop
+106976e (feature1) HEAD@{15}: merge feature1: Fast-forward
+5025306 HEAD@{16}: checkout: moving from feature2 to develop
+d9f730f (feature2) HEAD@{17}: commit: change index add link css
+fb5b99c HEAD@{18}: commit: create style and style.css
+5025306 HEAD@{19}: checkout: moving from develop to feature2
+5025306 HEAD@{20}: checkout: moving from feature1 to develop
+106976e (feature1) HEAD@{21}: commit: add images
+5025306 HEAD@{22}: checkout: moving from develop to feature1
+5025306 HEAD@{23}: commit: create index.html
+ce8c5fa HEAD@{24}: checkout: moving from master to develop
+ce8c5fa HEAD@{25}: commit (initial): create README.md
